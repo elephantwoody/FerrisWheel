@@ -1,0 +1,172 @@
+div .a
+{
+     left:50%;
+     top: 10px;
+     position:absolute;
+}
+div .b
+{
+
+     left:60%;
+     top:40px;
+     position:absolute;
+}
+div .c
+{
+     left:68%;
+     top:110px;
+     position:absolute;
+}
+
+div .d
+{
+		left:74%;
+    top:200px;
+    position:absolute;
+}
+div .e
+{
+     top:300px;
+     position:absolute;
+		 left:76%;
+}
+
+div .f
+{
+     left:74%;
+     top:400px;
+     position:absolute;
+}
+
+
+div .g
+{
+     top:495px;
+     left:68%;
+     position:absolute;
+}
+
+
+div .h
+{
+    top:565px;
+    left:60%;
+     position:absolute;
+}
+div .i
+{
+    top:600px;
+    left:50%;
+    position:absolute;
+}
+div .j
+{
+    top: 565px;
+    left: 40%;
+    position:absolute;
+}
+div .k
+{
+    top:495px;
+    left:32%;
+    position:absolute;
+}
+div .l
+{
+     left:26%;
+     top:395px;
+     position:absolute;
+}
+div .m
+{
+     left:24%;
+     top:295px;
+     position:absolute;
+}
+div .n
+{
+     left:26%;
+     top:195px;
+     position:absolute;
+}
+div .o
+{
+     left:32%;
+     top:105px;
+     position:absolute;
+}
+div .p
+{
+     left:40%;
+     top:35px;
+     position:absolute;
+}
+
+.fa{float:left;width}
+
+div .a:hover span{
+    display:block;
+}
+div .b:hover span{
+    display:block;
+}
+div .c:hover span{
+    display:block;
+}
+div .d:hover span{
+    display:block;
+}
+div .e:hover span{
+    display:block;
+}
+div .f:hover span{
+    display:block;
+}
+div .g:hover span{
+    display:block;
+}
+div .h:hover span{
+    display:block;
+}
+div .i:hover span{
+    display:block;
+}
+div .j:hover span{
+    display:block;
+}
+div .k:hover span{
+    display:block;
+}
+div .l:hover span{
+    display:block;
+}
+div .m:hover span{
+    display:block;
+}
+div .n:hover span{
+    display:block;
+}
+div .o:hover span{
+    display:block;
+}
+div .p:hover span{
+    display:block;
+}
+
+span{
+    background:#FFFFFF;
+    border: 5px solid #e9bbbb;
+    color: #717171;
+    font-size: 10px;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    top: 50px;
+    left:50px;
+    display:none;
+    padding:0 30px;
+
+}
